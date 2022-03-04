@@ -83,7 +83,7 @@
     "bootstrap": "^4.5.3",
     "bootstrap-sass": "^3.4.1",
     "cross-env": "^7.0.2",
-    "css-loader": "^5.0.1",
+    "@cultureamp/css-loader": "^3.6.1",
     "del": "^6.0.0",
     "del-cli": "^3.0.1",
     "enhanced-resolve": "^5.5.0",
