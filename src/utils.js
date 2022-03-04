@@ -72,11 +72,9 @@ function getSassImplementation(loaderContext, implementation) {
     // eslint-disable-next-line consistent-return
     return resolvedImplementation;
   } else if (implementationName === "node-sass") {
-    if (!semver.satisfies(version, "^4.0.0 || ^5.0.0 || ^6.0.0")) {
+    if (!semver.satisfies(version, "^7.0.0")) {
       loaderContext.emitError(
-        new Error(
-          `Node Sass version ${version} is incompatible with ^4.0.0 || ^5.0.0 || ^6.0.0.`
-        )
+        new Error(`Node Sass version ${version} is incompatible with ^7.0.0.`)
       );
     }
 
@@ -236,7 +234,8 @@ async function getSassOptions(
 // - ~@org/
 // - ~@org/package
 // - ~@org/package/
-const isModuleImport = /^~([^/]+|[^/]+\/|@[^/]+[/][^/]+|@[^/]+\/?|@[^/]+[/][^/]+\/)$/;
+const isModuleImport =
+  /^~([^/]+|[^/]+\/|@[^/]+[/][^/]+|@[^/]+\/?|@[^/]+[/][^/]+\/)$/;
 
 /**
  * When `sass`/`node-sass` tries to resolve an import, it uses a special algorithm.

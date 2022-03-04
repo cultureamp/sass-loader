@@ -1,6 +1,6 @@
 {
   "name": "@cultureamp/sass-loader",
-  "version": "10.2.9",
+  "version": "10.2.8",
   "description": "Sass loader for webpack",
   "license": "MIT",
   "repository": {
@@ -83,7 +83,7 @@
     "bootstrap": "^4.5.3",
     "bootstrap-sass": "^3.4.1",
     "cross-env": "^7.0.2",
-    "@cultureamp/css-loader": "^3.6.1",
+    "css-loader": "^5.0.1",
     "del": "^6.0.0",
     "del-cli": "^3.0.1",
     "enhanced-resolve": "^5.5.0",
