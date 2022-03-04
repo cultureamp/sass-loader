@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [10.2.4](https://github.com/cultureamp/sass-loader/compare/v10.2.3...v10.2.4) (2022-03-04)
+
+
+### Bug Fixes
+
+* repository url ([6f84c11](https://github.com/cultureamp/sass-loader/commit/6f84c110ed443e5a4b2d67012de953bb123ae0a1))
+
 ### [10.2.3](https://github.com/cultureamp/sass-loader/compare/v10.2.2...v10.2.3) (2022-03-04)
 
 
