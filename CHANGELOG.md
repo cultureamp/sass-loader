@@ -2,6 +2,47 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [10.2.7](https://github.com/cultureamp/sass-loader/compare/v10.2.6...v10.2.7) (2022-03-04)
+
+
+### Bug Fixes
+
+* update package name ([8d7f926](https://github.com/cultureamp/sass-loader/commit/8d7f92614a09b26fcde98d79da7c4f8ba6fd2e23))
+
+### [10.2.6](https://github.com/cultureamp/sass-loader/compare/v10.2.5...v10.2.6) (2022-03-04)
+
+
+### Bug Fixes
+
+* make package public ([5fd4ba1](https://github.com/cultureamp/sass-loader/commit/5fd4ba1c6c7e09aa56572d3b7016bfdfc9fd7e76))
+
+### [10.2.5](https://github.com/cultureamp/sass-loader/compare/v10.2.4...v10.2.5) (2022-03-04)
+
+
+### Bug Fixes
+
+* remove release action ([9ece553](https://github.com/cultureamp/sass-loader/commit/9ece553781a0ae699cf8c03e021409a187629bd6))
+* test ci user ([e7f6912](https://github.com/cultureamp/sass-loader/commit/e7f6912b8df40a23e268d5e6b2aa9acd7a27d4b6))
+* testing using token to push ([a2187c5](https://github.com/cultureamp/sass-loader/commit/a2187c53b028cbd5e904ea3ea354c416072c1b43))
+* update lock file ([edbaffa](https://github.com/cultureamp/sass-loader/commit/edbaffae42d0715583054c8c78d69dc1f5203e38))
+* update release script ([7e677ac](https://github.com/cultureamp/sass-loader/commit/7e677aceda363b53b831f82b60bec69b8de0b379))
+
+### [10.2.4](https://github.com/cultureamp/sass-loader/compare/v10.2.3...v10.2.4) (2022-03-04)
+
+
+### Bug Fixes
+
+* repository url ([6f84c11](https://github.com/cultureamp/sass-loader/commit/6f84c110ed443e5a4b2d67012de953bb123ae0a1))
+
+### [10.2.3](https://github.com/cultureamp/sass-loader/compare/v10.2.2...v10.2.3) (2022-03-04)
+
+
+### Bug Fixes
+
+* repository url ([0a457a2](https://github.com/cultureamp/sass-loader/commit/0a457a2fb086821ac39a7b0de389a4a01e217378))
+
+### [10.2.2](https://github.com/webpack-contrib/sass-loader/compare/v10.2.1...v10.2.2) (2022-03-04)
+
 ### [10.2.1](https://github.com/webpack-contrib/sass-loader/compare/v10.2.0...v10.2.1) (2022-01-14)
 
 
