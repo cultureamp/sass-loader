@@ -3,7 +3,10 @@
   "version": "10.2.3",
   "description": "Sass loader for webpack",
   "license": "MIT",
-  "repository": "cultureamp/sass-loader",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/cultureamp/sass-loader.git"
+  },
   "author": "J. Tangelder",
   "homepage": "https://github.com/cultureamp/sass-loader",
   "bugs": "https://github.com/cultureamp/sass-loader/issues",
