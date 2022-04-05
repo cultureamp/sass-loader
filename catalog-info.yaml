@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: sass-loader
   description: >
-    forked sass-loader that works with webpack 5
+    Forked sass-loader that supports webpack 4 to use node-sass v7
   tags:
     - users-na
     - camp-foundations
@@ -11,8 +11,7 @@ metadata:
   annotations:
     github.com/project-slug: sass-loader
     github.com/team-slug: front-end-foundations
-    buildkite.com/project-slug: cultureamp/sass-loader
 spec:
   type: library
   owner: front-end-foundations
-  lifecycle: development
+  lifecycle: production
