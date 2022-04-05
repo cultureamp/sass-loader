@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sass-loader
+  description: >
+    Forked sass-loader that supports webpack 4 to use node-sass v7
+  tags:
+    - users-na
+    - camp-foundations
+    - data-none
+  annotations:
+    github.com/project-slug: sass-loader
+    github.com/team-slug: front-end-foundations
+spec:
+  type: library
+  owner: front-end-foundations
+  lifecycle: production
