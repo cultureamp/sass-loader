@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: sass-loader # REQUIRED: should match the repo name
+  name: sass-loader
   description: >
     forked sass-loader that works with webpack 5
   tags:
